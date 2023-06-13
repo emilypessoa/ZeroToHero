@@ -1,2 +1,2 @@
 # ZeroToHero
-Trabalho da resolução de problema do restaurante de sushu, Zero to Hero
+Trabalho da resolução de problema do restaurante de sushi, Zero to Hero
