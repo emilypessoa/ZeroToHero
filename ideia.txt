@@ -1,0 +1,3 @@
+Zero to Hero
+Ideia: A solução pensada foi a criação de um site interativo, onde o cliente vai utilizar o QR code na mesa do restaurante para fazer o seu pedido, os pedidos serão preparados e entregues na ordem do site, não terá a opção de quem chegou depois sendo atendido antes de você. Você também poderá ver a ordem de cada pedido pelo site e ver o cardápio completo.
+Exemplos de lugares que utilizam esse método: Outback, BurgerKing
