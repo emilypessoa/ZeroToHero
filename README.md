@@ -1,2 +1,2 @@
 # ZeroToHero
-Trabalho da resolução de problema do restaurante de sushi, Zero to Hero
+Trabalho de resolução, o problema foi apresentado e criamos uma solução tecnológica para a dificuldade de atendimento de um restaurante comida japonesa.
